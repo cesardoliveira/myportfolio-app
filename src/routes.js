@@ -1,13 +1,13 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 import HomeScreen from './screens/home';
 
 const Routes = () => (
-    <BrowserRouter>
+    <HashRouter>
         <Switch>
             <Route exact path="/" component={HomeScreen}></Route>
         </Switch>
-    </BrowserRouter>
+    </HashRouter>
 )
 
 export default Routes;
