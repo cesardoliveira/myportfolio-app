@@ -90,7 +90,7 @@ const Experience = () => (
                         <p>
                             Developing web systems using C# in ASP. NET MVC architectures with DDD pattern and NHibernate or Dapper ORMs.
                             Creating API REST integrations.
-                            Maintaining and developing WPF applications on .NET framework 4.5 with SQL Server data base.
+                            Maintaining and developing WPF applications on .NET framework 4.5 with SQL Server database.
                       </p>
                     </Column>
                 </Column.Group>

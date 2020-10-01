@@ -10,9 +10,12 @@ const Intro = () => (
         </Card.Header>
         <Card.Content>
             <Content>
-                B.S. in Computer Science at FUMEC University.5 years as software developer using C# language in ASP. NET MVC framework, DDD and SOLID architectures patterns, NHibernate and Dapper data access. Also has wide Front-end experience with HTML5, JavaScript, JQuery, CSS3, Riot.js.
+                Productive, communicative, sociable, open-minded and creative programmer. B.S. in Computer Science.
                 <br /><br />
-                Productive, communicative, sociable, open-minded and creative programer (Full Stack Developer), current focus on React, Node.js and Ruby on Rails.
+                Full Stack Developer with 5 years of experience using C# language in ASP. NET MVC framework, DDD and SOLID architectures patterns, TDD development process. Also has wide Front-End knowledge with HTML5, React, Vue.js, and jQuery and Back-End knowledge with Node.js and Ruby on Rails.
+                <br /><br />
+                More details about my professional background on my 
+                <a href="https://drive.google.com/file/d/1g0HIKjaXWGrMa3ycoKulwZ5pCvHvotVW/view?usp=sharing" target="_blank" rel="noopener noreferrer"> Resume</a>.
             </Content>
         </Card.Content>
     </Card>
