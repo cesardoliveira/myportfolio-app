@@ -28,7 +28,7 @@ const Profile = () => (
                     <Icon>
                         <FontAwesomeIcon icon={faMobile} color="is-dark" />
                     </Icon>
-                    <span>(+61) 420 460 31</span>
+                    <span>(+61) 420 460 381</span>
                 </Title>
                 <Title as="p" subtitle size={6} >
                     <Icon>
