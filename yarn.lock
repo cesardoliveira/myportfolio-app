@@ -8120,6 +8120,11 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
+pdfjs-dist@2.4.456:
+  version "2.4.456"
+  resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-2.4.456.tgz#0eaad2906cda866bbb393e79a0e5b4e68bd75520"
+  integrity sha512-yckJEHq3F48hcp6wStEpbN9McOj328Ib09UrBlGAKxvN2k+qYPN5iq6TH6jD1C0pso7zTep+g/CKsYgdrQd5QA==
+
 performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
@@ -9208,6 +9213,19 @@ react-is@^16.12.0, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1, react-i
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
+
+react-pdf@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/react-pdf/-/react-pdf-5.0.0.tgz#baddeecd5c5ef92ae57aed1ee141203ad14d4b5d"
+  integrity sha512-VpqZjpZGEevmotLYl6acU6GYQeJ0dxn9+5sth5QjWLFhKu0xy3zSZgt3U3m97zW6UWzQ/scvw5drfPyun5l4eA==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    make-cancellable-promise "^1.0.0"
+    make-event-props "^1.1.0"
+    merge-class-names "^1.1.1"
+    pdfjs-dist "2.4.456"
+    prop-types "^15.6.2"
+    worker-loader "^3.0.0"
 
 react-router-dom@^5.2.0:
   version "5.2.0"
