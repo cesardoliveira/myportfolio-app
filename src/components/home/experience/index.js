@@ -26,15 +26,14 @@ const Experience = () => (
                     </Column>
                     <Column size={9}>
                         <Title className="experience-title" as="p" size={5}>
-                            Full Stack Developer
+                            Front End Developer
                             <span> </span>
                             <span class="tag is-light">Gecko - Australia</span>
                             <span> | </span>
                             <span class="tag is-light">Oct 2020 – Present</span>
                         </Title>
                         <p>
-                            Back-end: Node.js, GraphQL, MongoDB and Docker.
-                            Front-end: React, HTML5 and CSS.
+                            React, HTML5, CSS and Grommet.
                         </p>
                         <p>
                             Improving both web and mobile platform usability and functionality.
