@@ -31,8 +31,8 @@ const Experience = () => (
               <span> | </span>
               <span class="tag is-light">Oct 2020 – Fev 2021</span>
             </Title>
-            <p>Front-end: React, HTML5, CSS and Grommet.</p>
-            <p>Back-end: NodeJS, MongoDB</p>
+            <p>Front-end: React.js, HTML5, CSS and Grommet.</p>
+            <p>Back-end: Node.js, MongoDB</p>
             <p>
               Improving both web and mobile platform usability and
               functionality. Planning future improvements/expansions of a

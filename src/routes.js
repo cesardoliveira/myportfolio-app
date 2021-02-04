@@ -1,6 +1,6 @@
 import React from "react";
 import { HashRouter, Switch, Route } from "react-router-dom";
-import HomeScreen from "./screens/home";
+import HomeScreen from "./pages/home";
 
 const Routes = () => (
   <HashRouter>

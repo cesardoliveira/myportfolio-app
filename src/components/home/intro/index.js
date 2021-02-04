@@ -8,14 +8,14 @@ const Intro = () => (
     </Card.Header>
     <Card.Content>
       <Content>
-        Productive, communicative, sociable, open-minded and creative
+        Productive, communicative, open-minded and creative
         programmer. B.S. in Computer Science.
         <br />
         <br />
         Full Stack Developer with 5 years of experience using C# language in
         ASP. NET MVC framework, DDD and SOLID architectures patterns, TDD
         development process, Entity Framework, and Dapper ORM. Also has wide
-        Front-End knowledge with HTML5, jQuery and React, and Back-End knowledge
+        Front-End knowledge with HTML5, jQuery and React.js, and Back-End knowledge
         with Node.js + Express and Ruby on Rails.
         <br />
         <br />
