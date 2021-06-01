@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, Content, Column, Title } from "rbx";
-import FUMEC_Logo from "../../../assets/images/fumec-logo.png";
+import FUMEC_Logo from "../../assets/images/fumec-logo.png";
 
 const Education = () => (
   <Card>

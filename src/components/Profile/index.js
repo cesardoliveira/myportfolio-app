@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, Image, Media, Title, Content, Column, Icon } from "rbx";
-import PortfolioPhoto from "../../../assets/images/portfolio-photo.png";
+import PortfolioPhoto from "../../assets/images/portfolio-photo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMobile, faMailBulk, faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons";
 import "bulma/css/bulma.min.css";

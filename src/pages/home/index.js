@@ -1,11 +1,15 @@
 import React, { Fragment } from "react";
 import { Section, Container, Column } from "rbx";
-import Header from "../../components/header";
-import Profile from "../../components/home/profile";
-import Intro from "../../components/home/intro";
-import Experience from "../../components/home/experience";
-import Education from "../../components/home/education";
-import Footer from "../../components/footer";
+
+import { 
+  Header,
+  Profile,
+  Intro,
+  Experience,
+  Education,
+  Volunteer,
+  Footer
+} from "../../components";
 
 const HomeScreen = () => (
   <Fragment>
@@ -22,6 +26,8 @@ const HomeScreen = () => (
             <Experience />
             <br />
             <Education />
+            <br />
+            <Volunteer />
           </Column>
         </Column.Group>
       </Container>
